@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hamed EL-Sayed</h1>
 <h3 align="center">A passionate Data Analytics from Egypt</h3>
 
-
-
-
-https://github.com/MohamedHamedELsayed/MohamedHamedELsayed/assets/157715142/89370dc9-a67d-4341-a846-46a4781d820b
+![image](https://github.com/MohamedHamedELsayed/MohamedHamedELsayed/assets/157715142/9d18da95-f207-4c07-87cd-b71ad650abd7)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhamedelsayed&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhamedelsayed" /> </p>
